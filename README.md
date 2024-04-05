@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihindha&layout=pie&theme=nord&exclude_repo=msl,msl-pub,ihindha_tweet,hugo-clarity&langs_count=11&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ihindha&theme=nord&locale=sv&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ihindha&theme=nord&locale=sv&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **ihindha/ihindha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
